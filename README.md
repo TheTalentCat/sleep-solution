@@ -1,6 +1,6 @@
 # /sleep-solution
 
-A Claude Code skill that turns "time to wrap up" into "I'll have a PR for you in the morning."
+A Claude Code skill that turns "time to sleep" into "I'll have a PR for you in the morning."
 
 ## The problem this fixes
 
